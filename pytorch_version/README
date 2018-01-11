@@ -1,7 +1,8 @@
-Cat-vs-Dog
+### Cat-vs-Dog
 
 Training Cat-vs-Dog using PyTorch
 
 
-The file vgg_model.py comes from [https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py](https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py)
+
+The file vgg_model.py comes from https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py
 
